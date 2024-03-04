@@ -9,10 +9,10 @@ int main() {
 	double b;
 
 	printf("This Apps will calculate the hypoteunus value\n"); //The message to display regarding our app
-
+	//get the first value
 	printf("Enter your first value: \n"); //Request line command of the first value
 	scanf("%lf", &a);
-	
+	//get the second value
 	printf("Enter your second value: \n"); //Request for the second value
 		scanf("%lf", &b); //lf double format characterr
 
