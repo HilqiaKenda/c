@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdbool.h>
 // max number opf items on the chart
 #define max_items 10 
 
